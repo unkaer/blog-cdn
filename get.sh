@@ -22,5 +22,5 @@ curl -o down.tar.gz $downurl
 tar -xvzf down.tar.gz
 rm down.tar.gz
 chmod a+x hashfish
-./hashfish -g -p $phone -m $mode
-./hashfish
+hashfish -g -p $phone -m $mode
+hashfish
