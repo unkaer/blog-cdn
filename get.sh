@@ -1,9 +1,9 @@
 #!/data/data/com.termux/files/usr/bin/bash
 
-# 本文件地址https://github.com/unkaer/blog-cdn/edit/master/get.sh
+# 本文件地址https://raw.githubusercontent.com/unkaer/blog-cdn/master/get.sh
 # 本文件CDN地址https://cdn.jsdelivr.net/gh/unkaer/blog-cdn/get.sh
 # 哈鱼Termux脚本
-# curl -s https://github.com/unkaer/blog-cdn/edit/master/get.sh -o get.sh && bash get.sh ph_r1J0HFOARUlydx0= 0 && rm -f get.sh
+# curl -s https://raw.githubusercontent.com/unkaer/blog-cdn/master/get.sh -o get.sh && bash get.sh ph_r1J0HFOARUlydx0= 0 && rm -f get.sh
 # 哈鱼Termux-CDN脚本
 # curl -s https://cdn.jsdelivr.net/gh/unkaer/blog-cdn/get.sh -o get.sh && bash get.sh ph_r1J0HFOARUlydx0= 0 && rm -f get.sh
 
