@@ -4,8 +4,18 @@
 
 完全省略版本以获取最新版本
 你不应该在生产中使用这个
-
-    https://cdn.jsdelivr.net/gh/unkaer/blog-cdn/images/background.webp
+```bash
+https://cdn.jsdelivr.net/gh/unkaer/blog-cdn/images/background.webp
+```
 添加 / 在末尾获取目录列表
-
-    https://cdn.jsdelivr.net/gh/unkaer/blog-cdn/
+```bash
+https://cdn.jsdelivr.net/gh/unkaer/blog-cdn/
+```
+某一键脚本
+```bash
+wget -N --no-check-certificate https://raw.githubusercontent.com/unkaer/blog-cdn/ssr.sh && chmod +x ssr.sh && bash ssr.sh
+```
+原版
+```bash
+wget -N --no-check-certificate https://raw.githubusercontent.com/ToyoDAdoubi/doubi/master/ssr.sh && chmod +x ssr.sh && bash ssr.sh
+```
