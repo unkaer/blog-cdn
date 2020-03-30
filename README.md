@@ -11,6 +11,10 @@ https://cdn.jsdelivr.net/gh/unkaer/blog-cdn/images/background.webp
 ```bash
 https://cdn.jsdelivr.net/gh/unkaer/blog-cdn/
 ```
+直接访问文件
+```bash 
+https://raw.githubusercontent.com/unkaer/blog-cdn/master/apkupdate/com.vipvideos.unkaer/v
+```
 某一键脚本
 ```bash
 wget -N --no-check-certificate https://raw.githubusercontent.com/unkaer/blog-cdn/ssr.sh && chmod +x ssr.sh && bash ssr.sh
