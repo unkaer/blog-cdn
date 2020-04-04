@@ -15,11 +15,3 @@ https://cdn.jsdelivr.net/gh/unkaer/blog-cdn/
 ```bash 
 https://raw.githubusercontent.com/unkaer/blog-cdn/master/apkupdate/com.vipvideos.unkaer/v
 ```
-某一键脚本
-```bash
-wget -N --no-check-certificate https://raw.githubusercontent.com/unkaer/blog-cdn/ssr.sh && chmod +x ssr.sh && bash ssr.sh
-```
-原版
-```bash
-wget -N --no-check-certificate https://raw.githubusercontent.com/ToyoDAdoubi/doubi/master/ssr.sh && chmod +x ssr.sh && bash ssr.sh
-```
